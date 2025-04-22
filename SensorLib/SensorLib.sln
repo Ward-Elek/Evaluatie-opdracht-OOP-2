@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorLib", "SensorLib\SensorLib.csproj", "{B29F3519-E0AE-428B-8A23-A575F5D491B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestSensorLib", "XUnitTestSensorLib\XUnitTestSensorLib.csproj", "{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorApp", "SensorApp\SensorApp.csproj", "{7846A5DF-93C5-44F0-B798-9F0430DE677E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSensorApp", "WpfSensorApp\WpfSensorApp.csproj", "{5CA3F26B-860E-4B24-BA9C-4C2D88FF045E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{B29F3519-E0AE-428B-8A23-A575F5D491B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B29F3519-E0AE-428B-8A23-A575F5D491B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B29F3519-E0AE-428B-8A23-A575F5D491B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7846A5DF-93C5-44F0-B798-9F0430DE677E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7846A5DF-93C5-44F0-B798-9F0430DE677E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7846A5DF-93C5-44F0-B798-9F0430DE677E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7846A5DF-93C5-44F0-B798-9F0430DE677E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA3F26B-860E-4B24-BA9C-4C2D88FF045E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA3F26B-860E-4B24-BA9C-4C2D88FF045E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA3F26B-860E-4B24-BA9C-4C2D88FF045E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA3F26B-860E-4B24-BA9C-4C2D88FF045E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

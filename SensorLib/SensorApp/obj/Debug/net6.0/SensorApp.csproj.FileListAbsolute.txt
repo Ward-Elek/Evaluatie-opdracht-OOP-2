@@ -1,0 +1,15 @@
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\bin\Debug\net6.0\SensorApp.exe
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\bin\Debug\net6.0\SensorApp.deps.json
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\bin\Debug\net6.0\SensorApp.runtimeconfig.json
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\bin\Debug\net6.0\SensorApp.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\bin\Debug\net6.0\SensorApp.pdb
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.AssemblyInfoInputs.cache
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.AssemblyInfo.cs
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.csproj.CoreCompileInputs.cache
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.sourcelink.json
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\refint\SensorApp.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.pdb
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.genruntimeconfig.cache
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\ref\SensorApp.dll

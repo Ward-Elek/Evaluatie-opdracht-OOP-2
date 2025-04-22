@@ -1,0 +1,12 @@
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\obj\Debug\net6.0\SensorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\obj\Debug\net6.0\SensorLib.AssemblyInfoInputs.cache
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\obj\Debug\net6.0\SensorLib.AssemblyInfo.cs
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\obj\Debug\net6.0\SensorLib.csproj.CoreCompileInputs.cache
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\obj\Debug\net6.0\SensorLib.sourcelink.json
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\bin\Debug\net6.0\SensorLib.deps.json
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\bin\Debug\net6.0\SensorLib.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\bin\Debug\net6.0\SensorLib.pdb
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\obj\Debug\net6.0\SensorLib.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\obj\Debug\net6.0\refint\SensorLib.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\obj\Debug\net6.0\SensorLib.pdb
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorLib\obj\Debug\net6.0\ref\SensorLib.dll

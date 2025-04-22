@@ -3,8 +3,72 @@
   "WorkspaceRootPath": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\xunittestsensorlib\\lvlsensortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|solutionrelative:xunittestsensorlib\\lvlsensortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\xunittestsensorlib\\moistsensortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|solutionrelative:xunittestsensorlib\\moistsensortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7846A5DF-93C5-44F0-B798-9F0430DE677E}|SensorApp\\SensorApp.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7846A5DF-93C5-44F0-B798-9F0430DE677E}|SensorApp\\SensorApp.csproj|solutionrelative:sensorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\levelsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\levelsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\ilevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\ilevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\xunittestsensorlib\\uvsensortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|solutionrelative:xunittestsensorlib\\uvsensortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\xunittestsensorlib\\temphumisensortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|solutionrelative:xunittestsensorlib\\temphumisensortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\imoisture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\imoisture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\isensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\isensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\uvsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\uvsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\temphumisensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\temphumisensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\moisturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\moisturesensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\iuvlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\iuvlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\sensorlib\\itemphumi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B29F3519-E0AE-428B-8A23-A575F5D491B9}|SensorLib\\SensorLib.csproj|solutionrelative:sensorlib\\itemphumi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\xunittestsensorlib\\xunittestsensorlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DF45E24C-4A52-4D1D-A15C-B781F625C6EE}|XUnitTestSensorLib\\XUnitTestSensorLib.csproj|solutionrelative:xunittestsensorlib\\xunittestsensorlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA3F26B-860E-4B24-BA9C-4C2D88FF045E}|WpfSensorApp\\WpfSensorApp.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\wpfsensorapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5CA3F26B-860E-4B24-BA9C-4C2D88FF045E}|WpfSensorApp\\WpfSensorApp.csproj|solutionrelative:wpfsensorapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA3F26B-860E-4B24-BA9C-4C2D88FF045E}|WpfSensorApp\\WpfSensorApp.csproj|c:\\vives\\sem2\\programming\\oject oriented programming\\evaluatie-opdracht-oop-2\\sensorlib\\wpfsensorapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CA3F26B-860E-4B24-BA9C-4C2D88FF045E}|WpfSensorApp\\WpfSensorApp.csproj|solutionrelative:wpfsensorapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +83,221 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\Class1.cs",
-              "RelativeDocumentMoniker": "SensorLib\\Class1.cs",
-              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\Class1.cs",
-              "RelativeToolTip": "SensorLib\\Class1.cs",
+              "Title": "LvLSensorTest.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\LvLSensorTest.cs",
+              "RelativeDocumentMoniker": "XUnitTestSensorLib\\LvLSensorTest.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\LvLSensorTest.cs",
+              "RelativeToolTip": "XUnitTestSensorLib\\LvLSensorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:12:24.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoistSensorTest.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\MoistSensorTest.cs",
+              "RelativeDocumentMoniker": "XUnitTestSensorLib\\MoistSensorTest.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\MoistSensorTest.cs",
+              "RelativeToolTip": "XUnitTestSensorLib\\MoistSensorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:13:15.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TempHumiSensorTest.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\TempHumiSensorTest.cs",
+              "RelativeDocumentMoniker": "XUnitTestSensorLib\\TempHumiSensorTest.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\TempHumiSensorTest.cs",
+              "RelativeToolTip": "XUnitTestSensorLib\\TempHumiSensorTest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:14:52.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UVSensorTest.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\UVSensorTest.cs",
+              "RelativeDocumentMoniker": "XUnitTestSensorLib\\UVSensorTest.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\UVSensorTest.cs",
+              "RelativeToolTip": "XUnitTestSensorLib\\UVSensorTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:15:49.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelSensor.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\LevelSensor.cs",
+              "RelativeDocumentMoniker": "SensorLib\\LevelSensor.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\LevelSensor.cs",
+              "RelativeToolTip": "SensorLib\\LevelSensor.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:25:15.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILevel.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\ILevel.cs",
+              "RelativeDocumentMoniker": "SensorLib\\ILevel.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\ILevel.cs",
+              "RelativeToolTip": "SensorLib\\ILevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:22:32.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorApp\\Program.cs",
+              "RelativeDocumentMoniker": "SensorApp\\Program.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorApp\\Program.cs",
+              "RelativeToolTip": "SensorApp\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:31:34.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMoisture.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\IMoisture.cs",
+              "RelativeDocumentMoniker": "SensorLib\\IMoisture.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\IMoisture.cs",
+              "RelativeToolTip": "SensorLib\\IMoisture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:23:22.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISensor.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\ISensor.cs",
+              "RelativeDocumentMoniker": "SensorLib\\ISensor.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\ISensor.cs",
+              "RelativeToolTip": "SensorLib\\ISensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:22:11.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UVSensor.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\UVSensor.cs",
+              "RelativeDocumentMoniker": "SensorLib\\UVSensor.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\UVSensor.cs",
+              "RelativeToolTip": "SensorLib\\UVSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:26:12.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TempHumiSensor.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\TempHumiSensor.cs",
+              "RelativeDocumentMoniker": "SensorLib\\TempHumiSensor.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\TempHumiSensor.cs",
+              "RelativeToolTip": "SensorLib\\TempHumiSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:25:53.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MoistureSensor.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\MoistureSensor.cs",
+              "RelativeDocumentMoniker": "SensorLib\\MoistureSensor.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\MoistureSensor.cs",
+              "RelativeToolTip": "SensorLib\\MoistureSensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:25:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUVlight.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\IUVlight.cs",
+              "RelativeDocumentMoniker": "SensorLib\\IUVlight.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\IUVlight.cs",
+              "RelativeToolTip": "SensorLib\\IUVlight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:24:53.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITempHumi.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\ITempHumi.cs",
+              "RelativeDocumentMoniker": "SensorLib\\ITempHumi.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\ITempHumi.cs",
+              "RelativeToolTip": "SensorLib\\ITempHumi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:24:31.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "XUnitTestSensorLib",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\XUnitTestSensorLib.csproj",
+              "RelativeDocumentMoniker": "XUnitTestSensorLib\\XUnitTestSensorLib.csproj",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\XUnitTestSensorLib\\XUnitTestSensorLib.csproj",
+              "RelativeToolTip": "XUnitTestSensorLib\\XUnitTestSensorLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T13:05:42.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\WpfSensorApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfSensorApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\WpfSensorApp\\MainWindow.xaml",
+              "RelativeToolTip": "WpfSensorApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-22T12:32:28.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\WpfSensorApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfSensorApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\WpfSensorApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfSensorApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T12:15:43.171Z",
+              "WhenOpened": "2025-04-22T12:32:28.244Z",
               "EditorCaption": ""
             }
           ]
