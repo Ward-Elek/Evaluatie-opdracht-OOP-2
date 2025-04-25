@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "WpfSensorApp/1.0.0": {
+        "dependencies": {
+          "SensorLib": "1.0.0"
+        },
         "runtime": {
           "WpfSensorApp.dll": {}
+        }
+      },
+      "SensorLib/1.0.0": {
+        "runtime": {
+          "SensorLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "WpfSensorApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SensorLib/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

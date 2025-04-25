@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "SensorLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SensorLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SensorLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SensorLib/1.0.0": {
+      "type": "project",
+      "path": "../SensorLib/SensorLib.csproj",
+      "msbuildProject": "../SensorLib/SensorLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "SensorLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\wardd\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\SensorLib.csproj": {
+              "projectPath": "C:\\Vives\\Sem2\\Programming\\Oject Oriented Programming\\Evaluatie-opdracht-OOP-2\\SensorLib\\SensorLib\\SensorLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

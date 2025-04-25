@@ -6,7 +6,6 @@ C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\Se
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\MainWindow.g.cs
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\App.g.cs
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\WpfSensorApp_MarkupCompile.cache
-C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\WpfSensorApp_MarkupCompile.lref
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\MainWindow.baml
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\WpfSensorApp.g.resources
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\WpfSensorApp.GeneratedMSBuildEditorConfig.editorconfig
@@ -19,3 +18,7 @@ C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\Se
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\WpfSensorApp.pdb
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\WpfSensorApp.genruntimeconfig.cache
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\ref\WpfSensorApp.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\bin\Debug\net6.0-windows\SensorLib.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\bin\Debug\net6.0-windows\SensorLib.pdb
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\WpfSensorApp.csproj.AssemblyReference.cache
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\WpfSensorApp\obj\Debug\net6.0-windows\WpfSenso.0E03C606.Up2Date

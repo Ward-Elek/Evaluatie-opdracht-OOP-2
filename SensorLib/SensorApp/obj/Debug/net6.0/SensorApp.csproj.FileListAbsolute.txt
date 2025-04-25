@@ -13,3 +13,7 @@ C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\Se
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.pdb
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.genruntimeconfig.cache
 C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\ref\SensorApp.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\bin\Debug\net6.0\SensorLib.dll
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\bin\Debug\net6.0\SensorLib.pdb
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.csproj.AssemblyReference.cache
+C:\Vives\Sem2\Programming\Oject Oriented Programming\Evaluatie-opdracht-OOP-2\SensorLib\SensorApp\obj\Debug\net6.0\SensorApp.csproj.Up2Date

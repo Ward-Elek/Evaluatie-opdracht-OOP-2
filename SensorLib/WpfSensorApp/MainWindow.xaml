@@ -3,10 +3,67 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:WpfSensorApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
+        Title="Greenhouse Sensoring Application" Height="600" Width="1000"
+        Background="#f0f4f7">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*" />
+            <ColumnDefinition Width="2*" />
+        </Grid.ColumnDefinitions>
 
+        <!-- SENSOROVERZICHT -->
+        <GroupBox Header="Welcome to the Greenhouse sensoring application"
+                  FontWeight="Bold" FontSize="14"
+                  Foreground="#0a3958" Background="White" Margin="5">
+            <Grid>
+                <DataGrid x:Name="SensorDataGrid" AutoGenerateColumns="False" Margin="10"
+                          HeadersVisibility="Column" CanUserAddRows="False" IsReadOnly="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"/>
+                        <DataGridTextColumn Header="Location" Binding="{Binding Location}" Width="*"/>
+                        <DataGridTextColumn Header="Type" Binding="{Binding Type}" Width="*"/>
+                        <DataGridTemplateColumn Header="Action" Width="80">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="🗑" Foreground="Red" 
+                                            ToolTip="Verwijder sensor" FontSize="16"
+                                            Click="DeleteButton_Click" />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </GroupBox>
+
+        <!-- RECHTERPANEEL -->
+        <GroupBox Header="Sensor toevoegen / bewerken" Grid.Column="1" Margin="5"
+                  Background="White" FontWeight="Bold" FontSize="14" Foreground="#0a3958">
+            <StackPanel Margin="10">
+                <Label Content="Sensor type:" />
+                <ComboBox x:Name="SensorTypeComboBox" Margin="0,0,0,10" SelectionChanged="SensorTypeComboBox_SelectionChanged">
+                    <ComboBoxItem Content="LevelSensor"/>
+                    <ComboBoxItem Content="MoistureSensor"/>
+                    <ComboBoxItem Content="TempHumiSensor"/>
+                    <ComboBoxItem Content="UVSensor"/>
+                </ComboBox>
+
+                <Label Content="Naam:" />
+                <TextBox x:Name="NameTextBox" Margin="0,0,0,10" />
+
+                <Label Content="Locatie:" />
+                <TextBox x:Name="LocationTextBox" Margin="0,0,0,10" />
+
+                <!-- Dynamische sensor-specifieke velden -->
+                <StackPanel x:Name="SensorDetailsPanel" />
+
+                <!-- Afbeelding + knop -->
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,20,0,0">
+                    <Image Source="/Assets/waves.png" Height="60" Margin="0,0,20,0"/>
+                    <Button x:Name="AddButton" Content="Add" Width="100" Height="30" Click="AddButton_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
     </Grid>
 </Window>

@@ -1,6 +1,9 @@
 ﻿using SensorLib;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Text.Json;
+
 
 namespace SensorApp
 {
@@ -8,7 +11,7 @@ namespace SensorApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("GREENHOUSE SENSOREN – JSON OVERZICHT\n");
+            Console.WriteLine("JSON OVERZICHT\n");
 
             // Lijst van sensoren aanmaken
             List<ISensor> sensors = new List<ISensor>
