@@ -4,8 +4,17 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
-        Title="Greenhouse Sensoring Application" Height="600" Width="1000"
-        Background="#f0f4f7">
+        Title="Greenhouse Sensoring Application"
+        Height="600" Width="1000"
+        FontFamily="Segoe UI"
+        FontSize="14">
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+            <GradientStop Color="LightSkyBlue" Offset="0" />
+            <GradientStop Color="White" Offset="1" />
+        </LinearGradientBrush>
+    </Window.Background>
+
     <Grid Margin="10">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="3*" />
@@ -13,22 +22,44 @@
         </Grid.ColumnDefinitions>
 
         <!-- SENSOROVERZICHT -->
-        <GroupBox Header="Welcome to the Greenhouse sensoring application"
-                  FontWeight="Bold" FontSize="14"
-                  Foreground="#0a3958" Background="White" Margin="5">
+        <GroupBox Header="🌿 Smart Greenhouse Dashboard – Monitor &amp; Grow"
+                  FontWeight="Bold"
+                  FontSize="14"
+                  Foreground="#0a3958"
+                  Background="#99FFFFFF"
+                  BorderBrush="#00BFFF"
+                  BorderThickness="2"
+                  Margin="5"
+                  Padding="5">
             <Grid>
                 <DataGrid x:Name="SensorDataGrid" AutoGenerateColumns="False" Margin="10"
-                          HeadersVisibility="Column" CanUserAddRows="False" IsReadOnly="True">
+                          HeadersVisibility="Column" CanUserAddRows="False" IsReadOnly="True"
+                          Background="#FDFEFF" Foreground="#003366">
                     <DataGrid.Columns>
-                        <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"/>
-                        <DataGridTextColumn Header="Location" Binding="{Binding Location}" Width="*"/>
-                        <DataGridTextColumn Header="Type" Binding="{Binding Type}" Width="*"/>
-                        <DataGridTemplateColumn Header="Action" Width="80">
+                        <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*" />
+                        <DataGridTextColumn Header="Location" Binding="{Binding Location}" Width="*" />
+                        <DataGridTextColumn Header="Type" Binding="{Binding Type}" Width="*" />
+                        <DataGridTemplateColumn Header="Action" Width="100">
                             <DataGridTemplateColumn.CellTemplate>
                                 <DataTemplate>
-                                    <Button Content="🗑" Foreground="Red" 
-                                            ToolTip="Verwijder sensor" FontSize="16"
-                                            Click="DeleteButton_Click" />
+                                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                        <Button Content="✏️"
+                                                ToolTip="Bewerk sensor"
+                                                FontSize="16"
+                                                Foreground="Black"
+                                                Click="EditSensor_Click"
+                                                Padding="2"
+                                                BorderThickness="0"
+                                                Background="Transparent"/>
+                                        <Button Content="🗑️"
+                                                ToolTip="Verwijder sensor"
+                                                FontSize="16"
+                                                Foreground="Red"
+                                                Click="DeleteButton_Click"
+                                                Padding="2"
+                                                BorderThickness="0"
+                                                Background="Transparent"/>
+                                    </StackPanel>
                                 </DataTemplate>
                             </DataGridTemplateColumn.CellTemplate>
                         </DataGridTemplateColumn>
@@ -38,31 +69,48 @@
         </GroupBox>
 
         <!-- RECHTERPANEEL -->
-        <GroupBox Header="Sensor toevoegen / bewerken" Grid.Column="1" Margin="5"
-                  Background="White" FontWeight="Bold" FontSize="14" Foreground="#0a3958">
-            <StackPanel Margin="10">
-                <Label Content="Sensor type:" />
-                <ComboBox x:Name="SensorTypeComboBox" Margin="0,0,0,10" SelectionChanged="SensorTypeComboBox_SelectionChanged">
+        <GroupBox Header="✨ Sensor toevoegen of bewerken"
+                  Grid.Column="1"
+                  Background="#99FFFFFF"
+                  BorderBrush="#00BFFF"
+                  BorderThickness="2"
+                  FontWeight="Bold"
+                  FontSize="14"
+                  Foreground="#0a3958"
+                  Margin="5"
+                  Padding="10">
+            <StackPanel Margin="5">
+                <Label Content="🌐 Sensor type:" />
+                <ComboBox x:Name="SensorTypeComboBox" Margin="0,0,0,10"
+                          SelectionChanged="SensorTypeComboBox_SelectionChanged"
+                          Background="White">
                     <ComboBoxItem Content="LevelSensor"/>
                     <ComboBoxItem Content="MoistureSensor"/>
                     <ComboBoxItem Content="TempHumiSensor"/>
                     <ComboBoxItem Content="UVSensor"/>
                 </ComboBox>
 
-                <Label Content="Naam:" />
-                <TextBox x:Name="NameTextBox" Margin="0,0,0,10" />
+                <Label Content="📝 Naam:" />
+                <TextBox x:Name="NameTextBox" Margin="0,0,0,10" Background="White" />
 
-                <Label Content="Locatie:" />
-                <TextBox x:Name="LocationTextBox" Margin="0,0,0,10" />
+                <Label Content="📍 Locatie:" />
+                <TextBox x:Name="LocationTextBox" Margin="0,0,0,10" Background="White" />
 
-                <!-- Dynamische sensor-specifieke velden -->
+                <!-- Dynamische velden -->
                 <StackPanel x:Name="SensorDetailsPanel" />
 
-                <!-- Afbeelding + knop -->
-                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="0,20,0,0">
-                    <Image Source="/Assets/waves.png" Height="60" Margin="0,0,20,0"/>
-                    <Button x:Name="AddButton" Content="Add" Width="100" Height="30" Click="AddButton_Click"/>
-                </StackPanel>
+                <!-- Knop -->
+                <Button x:Name="AddButton"
+                        Content="➕ Add Sensor"
+                        Margin="10,20,10,0"
+                        Padding="8,4"
+                        FontSize="16"
+                        FontWeight="Bold"
+                        Background="#00BFFF"
+                        Foreground="White"
+                        BorderThickness="0"
+                        Cursor="Hand"
+                        Click="AddButton_Click"/>
             </StackPanel>
         </GroupBox>
     </Grid>

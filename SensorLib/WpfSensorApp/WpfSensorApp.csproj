@@ -9,7 +9,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="green-neon-button-glowing-neon-button-png-3844964767.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\SensorLib\SensorLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="green-neon-button-glowing-neon-button-png-3844964767.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>

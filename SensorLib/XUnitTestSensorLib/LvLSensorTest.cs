@@ -1,5 +1,4 @@
 using SensorLib;
-using Xunit;
 
 namespace XUnitTestSensorLib
 {

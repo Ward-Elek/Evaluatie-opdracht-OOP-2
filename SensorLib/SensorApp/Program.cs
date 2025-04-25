@@ -1,8 +1,4 @@
 ﻿using SensorLib;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Text.Json;
 
 
 namespace SensorApp
@@ -55,7 +51,7 @@ namespace SensorApp
             foreach (var sensor in sensors)
             {
                 Console.WriteLine(sensor.ToJsonString());
-                Console.WriteLine(); 
+                Console.WriteLine();
             }
 
             Console.WriteLine("Klaar. Druk toets om af te sluiten...");
